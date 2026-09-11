@@ -3,6 +3,9 @@
 *_.txt
 fig01_.ipynb
 
+# Old data files:
+data/eddy-tracker_outputs/old_version/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
